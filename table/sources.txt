@@ -1,0 +1,7 @@
+Table Generation Code: https://github.com/hlorenzi/mk8d_ocr
+
+SVG country flags: https://github.com/lipis/flag-icon-css
+
+Roboto-Black.ttf: Copyright 2011 Google Inc.
+Roboto-Regular.ttf: Copyright 2011 Google Inc
+RubikMonoOne-Regular.ttf: Copyright (c) 2013, 2014, Hubert and Fischer, Philipp Hubert (philipp@hubertfischer.com), Sebastian Fischer (sebastian@hubertfischer.com)
